@@ -5,7 +5,7 @@ Experience in leading teams from multiple geographical locations India,China & U
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Working as Product Manager at Crediwatch. Leading Admin, CMM product (UX, Development, and experience) + operations product with a team of 10 developers, QA Engineers.
-- 🌱 I’m currently learning Blockchain, System design, Product Management.
+- 🌱 I’m currently learning Dapp, Blockchain, System design, Product Management.
 - 👯 I’m looking to collaborate in any exciting Startups.
 - 💬 Ask me about anything about Tech or Future Tech.
 - 📫 How to reach me: @+91-8688-932-501(whatsapp)
