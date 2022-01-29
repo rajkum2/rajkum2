@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 
 Major highlights of my work are - 
 
-✅ Launching IOT based Cashless Payments:Planned & Executed the launch UPI/Mobile App based Cashless Payments for IOT devices like Vending Machines, Portable Charging Stations, Massage chairs etc.
-✅ Business Visit to Gaungzhou, Shenzhen & Shanghai.:Represented our company at World's Largest Technology Fair held in Guangzhou. Met and gathered business connections with more than 30+ Industries and listed down the 20+ different business cases that can be used in the Payments Industry.
-✅ Onsite work in US for 3 Yrs:Worked with Fortune 500 companies like Pearson, Mass mutual Fin Corp, as a Consultant and totally working on 4 clients while in the USA.
-✅ Launched my own startup - PropYaar (an online marketplace for properties)
+- ✅ Launching IOT based Cashless Payments:Planned & Executed the launch UPI/Mobile App based Cashless Payments for IOT devices like Vending Machines, Portable Charging Stations, Massage chairs etc.
+- ✅ Business Visit to Gaungzhou, Shenzhen & Shanghai.:Represented our company at World's Largest Technology Fair held in Guangzhou. Met and gathered business connections with more than 30+ Industries and listed down the 20+ different business cases that can be used in the Payments Industry.
+- ✅ Onsite work in US for 3 Yrs:Worked with Fortune 500 companies like Pearson, Mass mutual Fin Corp, as a Consultant and totally working on 4 clients while in the USA.
+- ✅ Launched my own startup - PropYaar (an online marketplace for properties)
 
 
 
