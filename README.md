@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a technology aficionado and a product geek. My passion is to build inspiring products that customers love, driving me to constantly shift gears at the intersection between design and technology to holistically support you in getting the most value out of your business. My proven track record includes over 9+yrs of experience working in a multitude of roles with all kinds of businesses in the USA, China .
+I'm a technology aficionado and a product geek. My passion is to build inspiring products that customers love, driving me to constantly shift gears at the intersection between design and technology to holistically support you in getting the most value out of your business. My proven track record includes over 9+yrs of experience working in a multitude of roles with multiple domains in the USA, China .
 Experience in leading teams from multiple geographical locations India,China & USA in multiple domains & seeking for a challenging position as Product Manager/ Project Master.
 Here are some ideas to get you started:
 
