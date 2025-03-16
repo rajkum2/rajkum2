@@ -16,7 +16,7 @@ I believe coding is magic ✨—magic that enables us to create everything the w
 🔧   Git | Docker | Kubernetes
 🔧   Photoshop | Premier Pro | After effects
 
-✨ **I believe coding is magic!** ✨
+✨ **AI will replace those who don't use it effectively! It is magic wand to do wonders!** ✨
 
 Let's connect and create something amazing together! 🚀
 
