@@ -1,15 +1,30 @@
-Hi there 👋
-I believe coding is magic✨, The magic which enables us to create everything the world has never seen before. I'm building ML models, Web.I love to work in a high-pressure startup environment.
+```markdown
+### Hi there 👋
 
-🌱 I’m working on learning AI/ML Projects
-👯 I’m looking to collaborate on Open Source
-💬 Ask me about React and Blockchain
+I believe coding is magic ✨—magic that enables us to create everything the world has never seen before. I'm passionate about building ML models and Web Applications, and I thrive in high-pressure startup environments.
+
+🌱 **Currently Learning:** AI/ML projects  
+👯 **Open to Collaboration:** Open Source
+💬 Ask me about Gen AI and Building MVP's.
 📫 How to reach me: kumar.alg2@gmail.com
 🛠 Tech Stack
-⚙️   Machine Learning | AI
+⚙️   Machine Learning | Gen AI | Full Stack
 ⚙️   Robotics | CUDA | Python
 💻   React | JavaScript | HTML | CSS | TailwindCSS
 🌐   NodeJs | AWS
 🛢   MSSQL | MongoDB | Snowflake
 🔧   Git | Docker | Kubernetes
 🔧   Photoshop | Premier Pro | After effects
+
+✨ **I believe coding is magic!** ✨
+
+Let's connect and create something amazing together! 🚀
+
+---
+
+📫 **Reach me:** Feel free to connect or drop a message!
+
+---
+
+**Happy Coding! 🚀**
+
