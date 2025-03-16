@@ -3,8 +3,8 @@
 
 I believe coding is magic ✨—magic that enables us to create everything the world has never seen before. I'm passionate about building ML models and Web Applications, and I thrive in high-pressure startup environments.
 
-🌱 **Currently Learning:** AI/ML projects  
-👯 **Open to Collaboration:** Open Source
+🌱 Currently Working on AI/ML projects  
+👯 Open to Collaboration: Open Source
 💬 Ask me about Gen AI and Building MVP's.
 📫 How to reach me: kumar.alg2@gmail.com
 🛠 Tech Stack
