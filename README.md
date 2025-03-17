@@ -6,7 +6,7 @@ I believe coding is magic ✨—magic that enables us to create everything the w
 🌱 Currently Working on AI/ML projects  
 👯 Open to Collaboration: Open Source
 💬 Ask me about Gen AI and Building MVP's.
-📫 How to reach me: kumar.alg2@gmail.com
+📫 How to reach me: kumar.pmus@gmail.com
 🛠 Tech Stack
 ⚙️   Machine Learning | Gen AI | Full Stack
 ⚙️   Robotics | CUDA | Python
